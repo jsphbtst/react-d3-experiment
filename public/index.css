@@ -1,0 +1,67 @@
+body {
+  margin: 0;
+  padding: 0;
+	font-family: 'Open Sans';
+}
+
+.tooltip {
+  background: #eee;
+  box-shadow: 0 0 5px #999999;
+  color: #333;
+  display: none;
+  font-size: 40px;
+  left: 130px;
+  padding: 10px;
+  position: absolute;
+  text-align: center;
+  top: 95px;
+  z-index: 10;
+}
+}
+
+/* HEADER */
+.Nav-item {
+  margin-left: 7%;
+}
+
+.Navbar-brand {
+  margin-left: 7%;
+}
+
+
+/* FOOTER */
+.Footer {
+  margin-left: 7%;
+  margin-right: 7%;
+}
+
+footer {
+  margin-top: 0.5em!important;
+  text-align: right;
+  color: black;
+  width: 100%;
+}
+
+footer p {
+  margin-top: 0.8em!important;
+  font-size: 20px;
+}
+
+
+/* PAGE */
+.Page {
+  margin-right: 7%;
+}
+
+.Page p {
+  margin-left: 8%;
+  text-align: justify;
+}
+
+.Page h4 {
+  text-align: center;
+}
+
+.Page h2 {
+  text-align: center;
+}
